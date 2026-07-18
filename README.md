@@ -1,4 +1,4 @@
-Metrics and cadence
+Metrics & cadence
 # 6. Ecosystem Meeting Cadence & Reporting Flow
 
 | Meeting Name | Frequency | Primary Attendees | Core Governance Agenda / Objective |
