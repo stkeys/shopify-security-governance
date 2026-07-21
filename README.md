@@ -9,7 +9,7 @@ Metrics & cadence
 
 ---
 
-# 7. Quantitative Governance KPIs (The Scoreboard)
+# 7. Quantitative Governance KPIs
 *Every metric directly measures ecosystem hygiene, proving control effectiveness to external auditors and leadership.*
 
 | # | Key Performance Indicator (KPI) | Target Threshold | Baseline Start | Strategic Purpose / Framework Mapping |
