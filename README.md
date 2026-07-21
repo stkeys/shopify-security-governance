@@ -1,7 +1,7 @@
 Metrics & cadence
 # 6. Ecosystem Meeting Cadence & Reporting Flow
 
-| Meeting Name | Frequency | Primary Attendees | Core Governance Agenda / Objective |
+| Meeting Name | Frequency | Primary Attendees | Core Governance Objective |
 | :--- | :---: | :--- | :--- |
 | **Board Tech & Risk Briefing** | **Quarterly** | Board Directors, CEO, CISO | Executive review of high-level ecosystem risk trends, major compliance blockers, and strategic KPI trends. |
 | **Ecosystem Security Steering** | **Monthly** | CISO, CTO, Product VP, GRC Lead | Cross-functional alignment to review high-risk vendor appeals, approve policy modifications, and track API updates. |
