@@ -1,6 +1,6 @@
 RACI Matrix & Gap Analysis
 # 3. RACI Matrix: Third-Party App Security Reviews
-*Color Guide: Red = Accountable (A) | Green = Responsible (R) | Yellow = Consulted (C) | Grey = Informed (I)*
+*Term Guide: Accountable (A) | Responsible (R) | Consulted (C) | Informed (I)*
 
 | Governance Activity | App Developer | Vendor Security Team | CISO | Legal & Compliance | GRC Team |
 | :--- | :---: | :---: | :---: | :---: | :---: |
